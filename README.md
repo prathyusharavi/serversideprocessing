@@ -139,6 +139,7 @@ path('areaofprism/',views.prismarea,name="areaofprism"),
 
 
 ##RESULT:
+
 thus the program executed.
 
 
