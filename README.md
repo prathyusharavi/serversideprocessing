@@ -138,11 +138,10 @@ path('areaofprism/',views.prismarea,name="areaofprism"),
 ![image](https://github.com/prathyusharavi/serversideprocessing/assets/147474424/12335883-c80c-4f21-abcf-55233aebc047)
 
 
-##RESULT:
-
-thus the program executed.
 
 
 
-## Result:
+
+## Result: 
+thus the program executed
 
